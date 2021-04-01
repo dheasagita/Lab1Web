@@ -4,4 +4,4 @@
 ### Membuat Paragraf
 Kode tag untuk pargafraf '<p>'
 Ini adalah tampilannya 
-![img]screenshoot/SS1.png
+![Gambar 1](screenshoot/SS1.png)
