@@ -22,6 +22,6 @@ Jawab : Maka link yang ditambahkan akan mengikuti instruksi dan atribut tersebut
 Kode tag untuk pargafraf '<p>'
 Ini adalah tampilannya 
 ![Gambar 1](screenshoot/SS1.png.png)
-![img] (sreenshoot/SS2.png.png)
+![Gambar 2] (sreenshoot/SS2.png.png)
 
 
